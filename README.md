@@ -16,10 +16,9 @@
 ### Ferramentas:
 ![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
 ![Windows](	https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
 
-
-<div align="center">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
