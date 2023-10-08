@@ -1,16 +1,25 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
-<!--
-**DantedSousa/DantedSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DantedSousa&theme=tokyonight" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DantedSousa&theme=tokyonight" />
+</div>
+<br><br>
 
-Here are some ideas to get you started:
+<h2>Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades principais:
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=27&color=currentColor)&nbsp;
+![pyton](https://icongr.am/devicon/python-original.svg?size=27&color=currentColor)&nbsp;
+![java](https://icongr.am/devicon/java-original.svg?size=27&color=currentColor)&nbsp;
+ 
+### Ferramentas:
+![eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=roxo)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=14354C)&nbsp;
+![Windows](	https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
+
+
+<div align="center">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
